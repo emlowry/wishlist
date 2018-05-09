@@ -37,9 +37,9 @@
 	  <url>http://www.amazon.com/dp/B005PM328U/</url>
 	</item>
     <item>
-      <name>Jiji&apos;s in Town Clock (Diorama Style) - Kiki&apos;s Delivery Service</name>
-      <thumbnail>jijis-in-town-clock-diorama-style-kikis-delivery.jpg</thumbnail>
-      <url>http://www.crunchyroll.com/store/p/193895/Jijis-in-Town-Clock-Diorama-Style-Kikis-Delivery-Service</url>
+      <name>Marvel Thor Hammer Tool Set</name>
+      <thumbnail>kjhi_marvel_thor_hammer_toolbox.gif</thumbnail>
+      <url>https://www.thinkgeek.com/product/kjhi/</url>
     </item>
     <item>
       <name>Cyber Fairy Ai-On-Line Ani Statue</name>
@@ -51,6 +51,31 @@
       <thumbnail>jlgk_pokemon_ball_mug.jpg</thumbnail>
       <url>http://www.thinkgeek.com/product/jlgk/</url>
     </item>
+	<item>
+	  <name>Special Edition Mini Comfort Food Golden Cupcake</name>
+	  <thumbnail>comfortfood_golden_cupcake_new.jpg</thumbnail>
+	  <url>http://www.squishable.com/pc/comfortfood_golden_cupcake/comfort_food/Special+Edition+Mini+Comfort+Food+Golden+Cupcake</url>
+	</item>
+    <item>
+      <name>Jiji&apos;s in Town Clock (Diorama Style) - Kiki&apos;s Delivery Service</name>
+      <thumbnail>jijis-in-town-clock-diorama-style-kikis-delivery.jpg</thumbnail>
+      <url>http://www.crunchyroll.com/store/p/193895/Jijis-in-Town-Clock-Diorama-Style-Kikis-Delivery-Service</url>
+    </item>
+  </section>
+
+  <section>
+    <name>Other Gift Ideas</name>
+    <note>These are things I probably wouldn&apos;t bother spending my own money on but that I&apos;ll still love if I receive them as gifts.</note>
+	<item>
+	  <name>Madoka Kaname soul gem</name>
+	  <thumbnail>madoka_soul_gem.jpg</thumbnail>
+	  <url>http://www.amazon.com/dp/B006Q550J4/</url>
+	</item>
+	<item>
+	  <name>Madoka Kaname Good Smile Company figure</name>
+	  <thumbnail>41UhQ3HWtdL._AA300_.jpg</thumbnail>
+	  <url>http://www.amazon.com/dp/B005GCLOWU/</url>
+	</item>
 	<item>
 	  <name>Mini Squishable Bunny Holding Ice Cream</name>
 	  <thumbnail>mini_squish_bunny_with_ice_cream_7_hands.jpg</thumbnail>
@@ -70,21 +95,6 @@
 	  <name>Mini Squishable Sea Bunny</name>
 	  <thumbnail>opensquish_sea_bunny_224956_new.jpg</thumbnail>
 	  <url>http://www.squishable.com/pc/opensquish_sea_bunny_224956/Squishable_Mini/Mini+Squishable+Sea+Bunny</url>
-	</item>
-  </section>
-
-  <section>
-    <name>Other Gift Ideas</name>
-    <note>These are things I probably wouldn&apos;t bother spending my own money on but that I&apos;ll still love if I receive them as gifts.</note>
-	<item>
-	  <name>Madoka Kaname soul gem</name>
-	  <thumbnail>madoka_soul_gem.jpg</thumbnail>
-	  <url>http://www.amazon.com/dp/B006Q550J4/</url>
-	</item>
-	<item>
-	  <name>Madoka Kaname Good Smile Company figure</name>
-	  <thumbnail>41UhQ3HWtdL._AA300_.jpg</thumbnail>
-	  <url>http://www.amazon.com/dp/B005GCLOWU/</url>
 	</item>
     <item>
       <name>Death Note Omega Edition Blu-ray</name>
