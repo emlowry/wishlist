@@ -62,6 +62,11 @@
       <url>http://www.thinkgeek.com/product/kshm/</url>
     </item>
     <item>
+      <name>Glass Water Faucet</name>
+      <thumbnail>12788_1_640px.jpg</thumbnail>
+      <url>https://www.uncommongoods.com/product/glass-water-faucet</url>
+    </item>
+    <item>
       <name>Squishable Apple Pie</name>
       <thumbnail>comfortfood_apple_pie.jpg</thumbnail>
       <url>http://www.squishable.com/pc/comfortfood_apple_pie/comfort_food/Comfort+Food+Apple+Pie</url>
@@ -75,11 +80,6 @@
       <name>Pok&#xe9;ball Mug</name>
       <thumbnail>jlgk_pokemon_ball_mug.jpg</thumbnail>
       <url>http://www.thinkgeek.com/product/jlgk/</url>
-    </item>
-    <item>
-      <name>Minecraft Redstone Wall Torch</name>
-      <thumbnail>jhtv_minecraft_redstone_wall_torch.gif</thumbnail>
-      <url>http://www.thinkgeek.com/product/jhtv/</url>
     </item>
   </section>
 
@@ -115,6 +115,17 @@
       <name>Pok&#xe9;mon Pikachu Coin Bank</name>
       <thumbnail>junr_pokemon_pikachu_coin_bank.gif</thumbnail>
       <url>http://www.thinkgeek.com/product/junr/</url>
+    </item>
+    <item>
+      <name>Minecraft Redstone Wall Torch</name>
+      <thumbnail>jhtv_minecraft_redstone_wall_torch.gif</thumbnail>
+      <url>http://www.thinkgeek.com/product/jhtv/</url>
+    </item>
+    <item>
+      <name>The Shattered Glass Ceiling Bracelet</name>
+      <thumbnail>48605_1_640px.jpg</thumbnail>
+      <url>https://www.uncommongoods.com/product/the-shattered-glass-ceiling-bracelet</url>
+      <note>I'd like two, one for each wrist.</note>
     </item>
     <item>
       <name>Pok&#xe9;mon Pok&#xe9; Ball Waffle Maker</name>
@@ -154,6 +165,11 @@
         <url>http://www.cdjapan.co.jp/detailview.html?KEY=CPCA-10283</url>
       </item>
     </group>
+    <item>
+      <name>Holographic Rainbow Puzzle</name>
+      <thumbnail>49173_1_640px.jpg</thumbnail>
+      <url>https://www.uncommongoods.com/product/holographic-rainbow-puzzle</url>
+    </item>
     <item>
       <name>Squishable Pizza Slice</name>
       <thumbnail>opensquish_pizza_104810.jpg</thumbnail>
