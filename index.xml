@@ -11,6 +11,11 @@
       <thumbnail>AURORA_2_2000x.jpg</thumbnail>
       <url>https://us-shop.nanoleaf.me/products/nanoleaf-light-panels-smarter-kit</url>
     </item>
+    <item>
+      <name>The Albert Math Clock</name>
+      <thumbnail>kjpm_albert_math_clock.jpg</thumbnail>
+      <url>http://www.thinkgeek.com/product/kjpm/</url>
+    </item>
  </section>
 
   <section>
@@ -32,11 +37,6 @@
       <url>http://www.crunchyroll.com/store/p/191951/Cyber-Fairy-AI-ON-LINE-Ani-Statue-Tonys-Heroine-Collection</url>
     </item>
     <item>
-      <name>Deadpool #unicornselfie Q-Fig Diorama</name>
-      <thumbnail>ktlv_deadpool_unicornselfie_q_fig.jpg</thumbnail>
-      <url>https://www.thinkgeek.com/product/ktlv/</url>
-    </item>
-    <item>
       <name>Glass Water Faucet</name>
       <thumbnail>12788_1_640px.jpg</thumbnail>
       <url>https://www.uncommongoods.com/product/glass-water-faucet</url>
@@ -47,14 +47,15 @@
       <url>http://www.thinkgeek.com/product/kshm/</url>
     </item>
     <item>
-      <name>Kamina Nendoroid - Gurren Lagaan</name>
-      <thumbnail>kamina-nendoroid-gurren-lagaan.jpg</thumbnail>
-      <url>https://www.crunchyroll.com/store/p/205577/Kamina-Nendoroid-Gurren-Lagaan</url>
-    </item>
-    <item>
       <name>Pok&#xe9;ball Mug</name>
       <thumbnail>jlgk_pokemon_ball_mug.jpg</thumbnail>
       <url>http://www.thinkgeek.com/product/jlgk/</url>
+    </item>
+    <item>
+      <name>The Shattered Glass Ceiling Bracelet</name>
+      <thumbnail>48605_1_640px.jpg</thumbnail>
+      <url>https://www.uncommongoods.com/product/the-shattered-glass-ceiling-bracelet</url>
+      <note>I'd like two, one for each wrist.</note>
     </item>
   </section>
 
@@ -72,9 +73,24 @@
       <url>http://www.amazon.com/dp/B005GCLOWU/</url>
     </item>
     <item>
-      <name>Minecraft Lava Lamp</name>
-      <thumbnail>ksjs_minecraft_lava_lamp.gif</thumbnail>
-      <url>http://www.thinkgeek.com/product/ksjs/</url>
+      <name>Pok&#xe9;mon Pikachu Coin Bank</name>
+      <thumbnail>junr_pokemon_pikachu_coin_bank.gif</thumbnail>
+      <url>http://www.thinkgeek.com/product/junr/</url>
+    </item>
+    <item>
+      <name>Minecraft Redstone Wall Torch</name>
+      <thumbnail>jhtv_minecraft_redstone_wall_torch.gif</thumbnail>
+      <url>http://www.thinkgeek.com/product/jhtv/</url>
+    </item>
+    <item>
+      <name>Deadpool #unicornselfie Q-Fig Diorama</name>
+      <thumbnail>ktlv_deadpool_unicornselfie_q_fig.jpg</thumbnail>
+      <url>https://www.thinkgeek.com/product/ktlv/</url>
+    </item>
+    <item>
+      <name>Kamina Nendoroid - Gurren Lagaan</name>
+      <thumbnail>kamina-nendoroid-gurren-lagaan.jpg</thumbnail>
+      <url>https://www.crunchyroll.com/store/p/205577/Kamina-Nendoroid-Gurren-Lagaan</url>
     </item>
     <item>
       <name>Minie Squishable Snuggle Bunny</name>
@@ -121,22 +137,6 @@
       <name>The Last Unicorn Statue</name>
       <thumbnail>kjtu_last_unicorn_statue.jpg</thumbnail>
       <url>https://www.thinkgeek.com/product/kjtu/</url>
-    </item>
-    <item>
-      <name>Pok&#xe9;mon Pikachu Coin Bank</name>
-      <thumbnail>junr_pokemon_pikachu_coin_bank.gif</thumbnail>
-      <url>http://www.thinkgeek.com/product/junr/</url>
-    </item>
-    <item>
-      <name>Minecraft Redstone Wall Torch</name>
-      <thumbnail>jhtv_minecraft_redstone_wall_torch.gif</thumbnail>
-      <url>http://www.thinkgeek.com/product/jhtv/</url>
-    </item>
-    <item>
-      <name>The Shattered Glass Ceiling Bracelet</name>
-      <thumbnail>48605_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/the-shattered-glass-ceiling-bracelet</url>
-      <note>I'd like two, one for each wrist.</note>
     </item>
     <item>
       <name>S. H. Figuarts Black Lady figure</name>
