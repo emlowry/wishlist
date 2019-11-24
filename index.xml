@@ -11,6 +11,16 @@
       <thumbnail>AURORA_2_2000x.jpg</thumbnail>
       <url>https://us-shop.nanoleaf.me/products/nanoleaf-light-panels-smarter-kit</url>
     </item>
+    <item>
+      <name>Girl Genius Book 18: Queens and Pirates</name>
+      <thumbnail>20191108_ggcoll018.jpg</thumbnail>
+      <url>https://www.amazon.com/dp/189085669X</url>
+    </item>
+    <item>
+      <name>Order of the Stick: Book 6 - Utterly Dwarfed</name>
+      <thumbnail>OOTS06_7in72dpi_RGBds.png</thumbnail>
+      <url>https://www.ookoodook.com/products/gipots06</url>
+    </item>
  </section>
 
   <section>
@@ -32,14 +42,15 @@
       <url>https://www.uncommongoods.com/product/glass-water-faucet</url>
     </item>
     <item>
-      <name>Mini Squishable Chocolate Bar</name>
-      <thumbnail>comfortfood_mini_chocolate_bar.jpg</thumbnail>
-      <url>https://www.squishable.com/pc/comfortfood_mini_chcolate_bar/splash/Mini+Comfort+Food+Chocolate+Bar</url>
+      <name>Magnetic Balance Lamp</name>
+      <thumbnail>48003_4_640px.jpg</thumbnail>
+      <url>https://www.uncommongoods.com/product/magnetic-balance-lamp</url>
+      <note>I want the black one, not the white one.</note>
     </item>
     <item>
-      <name>Mini Squishable Dragon Roll</name>
-      <thumbnail>opensquish_dragon_roll_280325.jpg</thumbnail>
-      <url>https://www.squishable.com/pc/opensquish_dragon_roll_280325/splash/Mini+Squishable+Dragon+Roll</url>
+      <name>Kamina Nendoroid - Gurren Lagaan</name>
+      <thumbnail>kamina-nendoroid-gurren-lagaan.jpg</thumbnail>
+      <url>https://www.crunchyroll.com/store/p/205577/Kamina-Nendoroid-Gurren-Lagaan</url>
     </item>
   </section>
 
@@ -57,11 +68,6 @@
       <url>http://www.amazon.com/dp/B005GCLOWU/</url>
     </item>
     <item>
-      <name>Kamina Nendoroid - Gurren Lagaan</name>
-      <thumbnail>kamina-nendoroid-gurren-lagaan.jpg</thumbnail>
-      <url>https://www.crunchyroll.com/store/p/205577/Kamina-Nendoroid-Gurren-Lagaan</url>
-    </item>
-    <item>
       <name>Squishable Snuggle Bunny</name>
       <thumbnail>squish_snuggle_bunny_15.jpg</thumbnail>
       <url>https://squishable.com/pc/squish_cream_snuggle_bunny_15/splash/Squishable+Snuggle+Bunny</url>
@@ -70,11 +76,6 @@
       <name>Squishable Stingray</name>
       <thumbnail>opensquish_squish_stingray_15.jpg</thumbnail>
       <url>https://www.squishable.com/pc/opensquish_squish_stingray_15/splash/Squishable+Stingray</url>
-    </item>
-    <item>
-      <name>Mini Squishable Mint Fluffy Bunny</name>
-      <thumbnail>squish_mini_mint_fluffy_bunny_7.jpg</thumbnail>
-      <url>http://www.squishable.com/pc/squish_mini_mint_fluffy_bunny_7/splash/Mini+Squishable+Mint+Fluffy+Bunny</url>
     </item>
     <item>
       <name>Mini Squishable Snuggle Bunny</name>
