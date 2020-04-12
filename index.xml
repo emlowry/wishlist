@@ -52,21 +52,6 @@
       <thumbnail>kamina-nendoroid-gurren-lagaan.jpg</thumbnail>
       <url>http://www.amazon.com/dp/B07D5F45GY/</url>
     </item>
-    <item>
-      <name>Squishable Takeout Box</name>
-      <thumbnail>comfortfood_takeout_box.jpg</thumbnail>
-      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=comfortfood_takeout_box</url>
-    </item>
-    <item>
-      <name>Mini Squishable Wizard</name>
-      <thumbnail>squish_mini_wizard_7.jpg</thumbnail>
-      <url>https://www.squishable.com/mm5/merchant.mvc?Store_Code=squishable&amp;Screen=PROD&amp;Category_Code=new_squish&amp;Product_Code=squish_mini_wizard_7</url>
-    </item>
-    <item>
-      <name>Mini Squishable Witch</name>
-      <thumbnail>mini_squish_witch_7.jpg</thumbnail>
-      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=mini_squish_witch_7</url>
-    </item>
   </section>
 
   <section>
@@ -83,24 +68,19 @@
       <url>http://www.amazon.com/dp/B005GCLOWU/</url>
     </item>
     <item>
-      <name>Mini Squishable Ramen</name>
-      <thumbnail>opensquish_ramen_71475.jpg</thumbnail>
-      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=opensquish_ramen_71475</url>
+      <name>Squishable Takeout Box</name>
+      <thumbnail>comfortfood_takeout_box.jpg</thumbnail>
+      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=comfortfood_takeout_box</url>
     </item>
     <item>
-      <name>Squishable Snuggle Bunny</name>
-      <thumbnail>squish_snuggle_bunny_15.jpg</thumbnail>
-      <url>https://squishable.com/pc/squish_cream_snuggle_bunny_15/splash/Squishable+Snuggle+Bunny</url>
+      <name>Mini Squishable Wizard</name>
+      <thumbnail>squish_mini_wizard_7.jpg</thumbnail>
+      <url>https://www.squishable.com/mm5/merchant.mvc?Store_Code=squishable&amp;Screen=PROD&amp;Category_Code=new_squish&amp;Product_Code=squish_mini_wizard_7</url>
     </item>
     <item>
-      <name>Squishable Stingray</name>
-      <thumbnail>opensquish_squish_stingray_15.jpg</thumbnail>
-      <url>https://www.squishable.com/pc/opensquish_squish_stingray_15/splash/Squishable+Stingray</url>
-    </item>
-    <item>
-      <name>Mini Squishable Snuggle Bunny</name>
-      <thumbnail>squish_mini_snuggle_bunny_7.jpg</thumbnail>
-      <url>http://www.squishable.com/pc/squish_mini_snuggle_bunny_7/splash/Mini+Squishable+Snuggle+Bunny</url>
+      <name>Mini Squishable Witch</name>
+      <thumbnail>mini_squish_witch_7.jpg</thumbnail>
+      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=mini_squish_witch_7</url>
     </item>
     <item>
       <name>Squishable Hot Chocolate</name>
@@ -121,26 +101,6 @@
       <name>Mini Squishable Dust Bunny</name>
       <thumbnail>squish_mini_dust_bunny_7.jpg</thumbnail>
       <url>http://www.squishable.com/pc/squish_mini_dust_bunny_7/splash/Mini+Squishable+Dust+Bunny</url>
-    </item>
-    <item>
-      <name>Undercover Kitty in Dragon</name>
-      <thumbnail>undercover_kitty_in_dragon_7.jpg</thumbnail>
-      <url>http://www.squishable.com/pc/undercover_kitty_dragon_7/undercover/Undercover+Kitty+in+Dragon</url>
-    </item>
-    <item>
-      <name>Undercover Red Dragon Disguise</name>
-      <thumbnail>undercover_red_dragon_disguise_back.jpg</thumbnail>
-      <url>http://www.squishable.com/pc/undercover_red_dragon_disguise/splash/Undercover+Red+Dragon+Disguise</url>
-    </item>
-    <item>
-      <name>Cinnamon Bun Dreams - The Comfort Food Coloring Book</name>
-      <thumbnail>coloring_book_cinnamon.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/coloring_book_cinnamon.html</url>
-    </item>
-    <item>
-      <name>Squishable Toaster Tart</name>
-      <thumbnail>comfortfood_toaster_tart.jpg</thumbnail>
-      <url>http://www.squishable.com/pc/comfortfood_toastertart/comfort_food/Comfort+Food+Toaster+Tart</url>
     </item>
   </section>
 
