@@ -7,19 +7,19 @@
     <name>Must-Haves</name>
     <note>These are things that I either need or want strongly enough that they feel like needs.  Get these first, if it&apos;s practical.</note>
     <item>
+      <name>Squishable Waffle Cone</name>
+      <thumbnail>comfortfood_waffle_cone.jpg</thumbnail>
+      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=comfortfood_waffle_cone</url>
+    </item>
+    <item>
       <name>Squishable Cookie Ice Cream Sandwich</name>
       <thumbnail>comfortfood_cookie_ice_cream_sandwich_15.jpg</thumbnail>
       <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=comfortfood_cookie_ice_cream_sandwich</url>
     </item>
     <item>
-      <name>Micro Squishable Baby Unicorn</name>
-      <thumbnail>micro_squish_baby_unicorn_3.jpg</thumbnail>
-      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=micro_baby_unicorn_3</url>
-    </item>
-    <item>
       <name>Mini Squishable Crystal Dragon</name>
       <thumbnail>mini_squish_crystal_dragon_7.jpg</thumbnail>
-      <url>https://www.squishable.com/mm5/merchant.mvc?Store_Code=squishable&amp;Screen=PROD&amp;Category_Code=Squishable_Mini&amp;Product_Code=mini_squish_crystal_dragon_7</url>
+      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=mini_squish_crystal_dragon_7</url>
     </item>
  </section>
 
@@ -35,6 +35,11 @@
       <name>Homura Akemi Good Smile Company figure</name>
       <thumbnail>41Mod23ucXL._AA300_.jpg</thumbnail>
       <url>http://www.amazon.com/dp/B005PM328U/</url>
+    </item>
+    <item>
+      <name>Micro Squishable Baby Unicorn</name>
+      <thumbnail>micro_squish_baby_unicorn_3.jpg</thumbnail>
+      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=micro_baby_unicorn_3</url>
     </item>
     <item>
       <name>Magnetic Balance Lamp</name>
@@ -75,7 +80,7 @@
     <item>
       <name>Mini Squishable Wizard</name>
       <thumbnail>squish_mini_wizard_7.jpg</thumbnail>
-      <url>https://www.squishable.com/mm5/merchant.mvc?Store_Code=squishable&amp;Screen=PROD&amp;Category_Code=new_squish&amp;Product_Code=squish_mini_wizard_7</url>
+      <url>https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&amp;Product_Code=squish_mini_wizard_7</url>
     </item>
     <item>
       <name>Mini Squishable Witch</name>
