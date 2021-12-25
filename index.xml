@@ -22,25 +22,9 @@
     <name>Wants</name>
     <note>These are things I really want.  I don&apos;t <em>need</em> them, but I will happily spend my own money on them if I don&apos;t get them as gifts.</note>
     <item>
-      <name>Pokemon Mewtwo Deluxe Collector Figure</name>
-      <thumbnail>Pokemon-Mewtwo-Deluxe-Collector-Figure.jpg</thumbnail>
-      <url>https://www.gamestop.com/toys-collectibles/collectibles/figures/products/pokemon-mewtwo-deluxe-collector-figure/11101161.html</url>
-    </item>
-    <item>
-      <name>Traditional Bread Warming Set</name>
-      <thumbnail>50963_3_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/traditional-bread-warming-set</url>
-      <note>Please get the <i>With Lid</i> version.</note>
-    </item>
-    <item>
       <name>Glass Water Faucet</name>
       <thumbnail>12788_1_640px.jpg</thumbnail>
       <url>https://www.uncommongoods.com/product/glass-water-faucet</url>
-    </item>
-    <item>
-      <name>DIY Raindrop Cake - Molecular Gastronomy Kit</name>
-      <thumbnail>53415_3_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/diy-raindrop-cake-molecular-gastronomy-kit</url>
     </item>
     <item>
       <name>Mini Squishable Gingerbread Woman</name>
@@ -48,30 +32,25 @@
       <url>https://www.squishable.com/squishables/mini_comfortfood_gingerbread_woman.html</url>
     </item>
     <item>
-      <name>Squishable Dango</name>
-      <thumbnail>comfortfood_dango.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/comfortfood_dango_15.html</url>
+      <name>Mini Squishable Marshmallows</name>
+      <thumbnail>comfortfood_mini_marshmallows.jpg</thumbnail>
+      <url>https://www.squishable.com/squishables/mini_comfortfood_marshmallow_7.html</url>
     </item>
     <item>
       <name>Squishable Dipped Ice Cream Pop</name>
       <thumbnail>comfortfood_dipped_ice_cream_pop.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/comfortfood_mint_ice_cream_bar_15.html</url>
     </item>
+    <item>
+      <name>Micro Squishable Gingerbread Woman</name>
+      <thumbnail>micro_gingerbread_woman.jpg</thumbnail>
+      <url>https://www.squishable.com/squishables/micro_gingerwoman_3.html</url>
+    </item>
   </section>
 
   <section>
     <name>Other Gift Ideas</name>
     <note>These are things I probably wouldn&apos;t bother spending my own money on but that I&apos;ll still love if I receive them as gifts.</note>
-    <item>
-      <name>Moving Mechanical Safe Kit</name>
-      <thumbnail>47407_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/moving-mechanical-safe-kit</url>
-    </item>
-    <item>
-      <name>Kinetic Gears Kit</name>
-      <thumbnail>52517_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/kinetic-gears-kit</url>
-    </item>
     <item>
       <name>Mini Squishable &quot;Nope&quot; Candy Heart</name>
       <thumbnail>candy_hearts_nope.jpg</thumbnail>
@@ -83,44 +62,14 @@
       <url>https://www.squishable.com/squishables/mini_candy_hearts_mood_6.html</url>
     </item>
     <item>
-      <name>Mini Squishable &quot;Yeet&quot; Candy Heart</name>
-      <thumbnail>candy_hearts_yeet.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/mini_candy_hearts_yeet_6.html</url>
-    </item>
-    <item>
       <name>Mini Squishable &quot;uwu&quot; Candy Heart</name>
       <thumbnail>comfortfood_candy_hearts_uwu.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/mini_candy_hearts_uwu_6.html</url>
     </item>
     <item>
-      <name>Thai Curry Cooking Kit</name>
-      <thumbnail>49237_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/thai-curry-cooking-kit</url>
-    </item>
-    <item>
-      <name>Perfect Pasta Salt Rocks</name>
-      <thumbnail>55085_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/perfect-pasta-salt-rocks</url>
-    </item>
-    <item>
       <name>Squishable Shadow Dragon</name>
       <thumbnail>squish_shadow_dragon_15.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/squish_shadow_dragon_15.html</url>
-    </item>
-    <item>
-      <name>Mini Squishable Shadow Dragon</name>
-      <thumbnail>mini_squish_shadowdragon_7.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/mini_squish_shadow_dragon_7.html</url>
-    </item>
-    <item>
-      <name>540 Colors 3D Puzzle</name>
-      <thumbnail>51263_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/540-colors-3d-puzzle</url>
-    </item>
-    <item>
-      <name>Color-Shifting Iridescent Puzzle</name>
-      <thumbnail>53146_4_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/color-shifting-iridescent-puzzle</url>
     </item>
     <item>
       <name>Imagination Paperweight</name>
@@ -146,6 +95,11 @@
       <name>Squishable Unicorn Latte</name>
       <thumbnail>comfortfood_unicorn_latte.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/comfortfood_unicorn_latte_15.html</url>
+    </item>
+    <item>
+      <name>Mini Squishable Unicorn Latte</name>
+      <thumbnail>comfortfood_mini_unicorn_latte.jpg</thumbnail>
+      <url>https://www.squishable.com/squishables/mini_unicorn_latte_7.html</url>
     </item>
     <item>
       <name>Mini Squishable Wish Dragon</name>
