@@ -17,11 +17,6 @@
     <name>Wants</name>
     <note>These are things I really want.  I don&apos;t <em>need</em> them, but I will happily spend my own money on them if I don&apos;t get them as gifts.</note>
     <item>
-      <name>Mini Squishable Cinnabunny</name>
-      <thumbnail>mini_cinnabunny.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/opensquish_cinnamon_bunny_286836.html</url>
-    </item>
-    <item>
       <name>Mini Candy Tree</name>
       <thumbnail>alteregos_christmas_tree_candy.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/alterego_trees3_candytree.html</url>
@@ -35,11 +30,6 @@
       <name>Squishable Gingerbread Woman</name>
       <thumbnail>squish_gingerbread_woman_15_1.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/squish_gingerbread_woman_15.html</url>
-    </item>
-    <item>
-      <name>Squishable Rose</name>
-      <thumbnail>squish_rose_151.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/squish_rose_15.html</url>
     </item>
   </section>
 
@@ -67,11 +57,6 @@
       <url>https://www.squishable.com/squishables/mini_cheesecake.html</url>
     </item>
     <item>
-      <name>Mini Squishable Pumpkin Pie</name>
-      <thumbnail>comfortfood_mini_pumpkin_pie.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/mini_pumpkin_pie.html</url>
-    </item>
-    <item>
       <name>Mini Squishable Apple Pie</name>
       <thumbnail>comfortfood_mini_apple_pie.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/mini_apple_pie.html</url>
@@ -92,11 +77,6 @@
       <url>https://www.squishable.com/squishables/mini_squish_undead_steed_7.html</url>
     </item>
     <item>
-      <name>Mini Squishable Petal Dragon</name>
-      <thumbnail>mini_petal_dragon.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/mini_squish_petal_dragon_7.html</url>
-    </item>
-    <item>
       <name>Imagination Paperweight</name>
       <thumbnail>22176_1_640px.jpg</thumbnail>
       <url>https://www.uncommongoods.com/product/imagination-paperweight</url>
@@ -107,24 +87,9 @@
       <url>http://www.amazon.com/dp/B07D5F45GY/</url>
     </item>
     <item>
-      <name>Squishable Shadow Dragon</name>
-      <thumbnail>squish_shadow_dragon_15.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/squish_shadow_dragon_15.html</url>
-    </item>
-    <item>
-      <name>Squishable Red Dragon</name>
-      <thumbnail>squish_red_dragon_15.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/squish_red_dragon_15.html</url>
-    </item>
-    <item>
       <name>Mini Squishable Red Dragon</name>
       <thumbnail>squish_mini_red_dragon_7.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/mini_red_dragon_7.html</url>
-    </item>
-    <item>
-      <name>Mini Squishable Wish Dragon</name>
-      <thumbnail>mini_squish_wish_dragon_7.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/opensquish_wish_dragon_296354.html</url>
     </item>
   </section>
 
