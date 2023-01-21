@@ -17,41 +17,6 @@
     <name>Wants</name>
     <note>These are things I really want.  I don&apos;t <em>need</em> them, but I will happily spend my own money on them if I don&apos;t get them as gifts.</note>
     <item>
-      <name>Mini Candy Tree</name>
-      <thumbnail>alteregos_christmas_tree_candy.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/alterego_trees3_candytree.html</url>
-    </item>
-    <item>
-      <name>Squishable Marshmallows</name>
-      <thumbnail>comfortfood_marshmallows.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/comfortfood_marshmallows_15.html</url>
-    </item>
-    <item>
-      <name>Squishable Gingerbread Woman</name>
-      <thumbnail>squish_gingerbread_woman_15_1.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/squish_gingerbread_woman_15.html</url>
-    </item>
-  </section>
-
-  <section>
-    <name>Other Gift Ideas</name>
-    <note>These are things I probably wouldn&apos;t bother spending my own money on but that I&apos;ll still love if I receive them as gifts.</note>
-    <item>
-      <name>Mini Squishable &quot;Nope&quot; Candy Heart</name>
-      <thumbnail>candy_hearts_nope.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/mini_candy_hearts_nope_6.html</url>
-    </item>
-    <item>
-      <name>Mini Squishable &quot;uwu&quot; Candy Heart</name>
-      <thumbnail>comfortfood_candy_hearts_uwu.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/mini_candy_hearts_uwu_6.html</url>
-    </item>
-    <item>
-      <name>Squishable Snacker &quot;Pog&quot; Candy Heart</name>
-      <thumbnail>comfortfood_candy_hearts_series_3_pog.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/snacker_candy_hearts_pog_6.html</url>
-    </item>
-    <item>
       <name>Mini Squishable Cheesecake</name>
       <thumbnail>comfortfood_mini_cheesecake.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/mini_cheesecake.html</url>
@@ -66,20 +31,35 @@
       <thumbnail>comfortfood_mini_cherry_pie.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/mini_cherry_pie.html</url>
     </item>
+  </section>
+
+  <section>
+    <name>Other Gift Ideas</name>
+    <note>These are things I probably wouldn&apos;t bother spending my own money on but that I&apos;ll still love if I receive them as gifts.</note>
+    <item>
+      <name>Mini Squishable &quot;Nope&quot; Candy Heart</name>
+      <thumbnail>candy_hearts_nope.jpg</thumbnail>
+      <url>https://www.squishable.com/squishables/mini_candy_hearts_nope_6.html</url>
+    </item>
+    <item>
+      <name>Squishable Snacker &quot;Pog&quot; Candy Heart</name>
+      <thumbnail>comfortfood_candy_hearts_series_3_pog.jpg</thumbnail>
+      <url>https://www.squishable.com/squishables/snacker_candy_hearts_pog_6.html</url>
+    </item>
     <item>
       <name>Mini Squishable Dragon Fruit</name>
       <thumbnail>mini_dragon_fruit.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/opensquish_dragon_fruit_359527.html</url>
     </item>
     <item>
+      <name>Squishable Gumball Machine</name>
+      <thumbnail>comfortfood_gumball_machine.jpg</thumbnail>
+      <url>https://www.squishable.com/squishables/comfortfood_gumball_machine_15.html</url>
+    </item>
+    <item>
       <name>Mini Squishable Undead Unicorn</name>
       <thumbnail>mini_undead_unicorn.jpg</thumbnail>
       <url>https://www.squishable.com/squishables/mini_squish_undead_steed_7.html</url>
-    </item>
-    <item>
-      <name>Imagination Paperweight</name>
-      <thumbnail>22176_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/imagination-paperweight</url>
     </item>
     <item>
       <name>Kamina Nendoroid - Gurren Lagaan</name>
