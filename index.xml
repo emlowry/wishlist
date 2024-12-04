@@ -12,6 +12,16 @@
       <url>https://topatoco.com/collections/girl-genius?filter.v.price.gte=&amp;filter.v.price.lte=&amp;filter.p.product_type=Books&amp;sort_by=created-descending</url>
       <note>This volume is not yet available for purchase or pre-order, but the given link should have it at the top of the page when it is.</note>
     </item>
+    <item>
+      <name>Plum Blossom LEGO Set</name>
+      <thumbnail>10369_boxprod_v39_sha.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/plum-blossom-10369</url>
+    </item>
+    <item>
+      <name>Magical Unicorn LEGO Set</name>
+      <thumbnail>31140_alt1.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/magical-unicorn-31140</url>
+    </item>
  </section>
 
   <section>
@@ -41,6 +51,21 @@
       <name>Mini Squishable Bunana</name>
       <thumbnail>mini_bunana.jpg</thumbnail>
       <url>https://www.squishable.com/products/mini-squishable-bunana</url>
+    </item>
+    <item>
+      <name>Mini Orchid LEGO Set</name>
+      <thumbnail>10343_boxprod_v39.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/mini-orchid-10343</url>
+    </item>
+    <item>
+      <name>Chrysanthemum LEGO Set</name>
+      <thumbnail>10368_boxprod_v39_sha.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/chrysanthemum-10368</url>
+    </item>
+    <item>
+      <name>Lucky Bamboo LEGO Set</name>
+      <thumbnail>10344_boxprod_v39_en-gb.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/lucky-bamboo-10344</url>
     </item>
     <item>
       <name>Mini Squishable Candy Tree</name>
@@ -74,6 +99,21 @@
     <name>Other Gift Ideas</name>
     <note>These are things I probably wouldn&apos;t bother spending my own money on but that I&apos;ll still love if I receive them as gifts.</note>
     <item>
+      <name>The Milky Way Galaxy LEGO Set</name>
+      <thumbnail>31212_boxprod_v39.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/the-milky-way-galaxy-31212</url>
+    </item>
+    <item>
+      <name>Pretty Pink Flower Bouquet LEGO Set</name>
+      <thumbnail>10342_boxprod_v39.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/pretty-pink-flower-bouquet-10342</url>
+    </item>
+    <item>
+      <name>The Botanical Garden LEGO Set</name>
+      <thumbnail>21353_boxprod_v39.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/the-botanical-garden-21353</url>
+    </item>
+    <item>
       <name>Glass Balloon (Purple)</name>
       <note>I wouldn't mind the blue one either, but I&apos;m not interested in any of the other colors.</note>
       <thumbnail>13479_3_640px.jpg</thumbnail>
@@ -99,9 +139,24 @@
       </item>
     </group>
     <item>
+      <name>Planet Earth and Moon in Orbit LEGO Set</name>
+      <thumbnail>42179_boxprod_v39.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/planet-earth-and-moon-in-orbit-42179</url>
+    </item>
+    <item>
       <name>Marble Run DIY Complete Build Set</name>
       <thumbnail>61114_1_640px.jpg</thumbnail>
       <url>https://www.uncommongoods.com/product/marble-run-diy-complete-build-set</url>
+    </item>
+    <item>
+      <name>Exotic Pink Parrot LEGO Set</name>
+      <thumbnail>31144_alt1.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/exotic-pink-parrot-31144</url>
+    </item>
+    <item>
+      <name>Exotic Peacock LEGO Set</name>
+      <thumbnail>31157_alt1.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/exotic-peacock-31157</url>
     </item>
     <group>
       <name>Storybook DIY Kits</name>
