@@ -32,16 +32,47 @@
       <thumbnail>tiny-tv-2.jpg</thumbnail>
       <url>https://www.vat19.com/item/tiny-tv-super-small-working-television</url>
     </item>
+    <item>
+      <name>Squishable Snacker Gingerbread Tree</name>
+      <thumbnail>alteregos_christmas_tree_set_2_g.jpg</thumbnail>
+      <url>https://www.squishable.com/products/alter-egos-series-12-gingerbread-tree</url>
+    </item>
+    <item>
+      <name>Mini Squishable Bunana</name>
+      <thumbnail>mini_bunana.jpg</thumbnail>
+      <url>https://www.squishable.com/products/mini-squishable-bunana</url>
+    </item>
+    <item>
+      <name>Mini Squishable Candy Tree</name>
+      <thumbnail>mini_candy_tree.jpg</thumbnail>
+      <url>https://www.squishable.com/products/mini-squishable-candy-tree</url>
+      <note>I already have the snacker-sized one.</note>
+    </item>
+    <item>
+      <name>Squishable Snacker Cinnabunny</name>
+      <thumbnail>snackers_cinnabunny.jpg</thumbnail>
+      <url>https://www.squishable.com/products/snacker-cinnabunny</url>
+      <note>I already have the mini-sized one.</note>
+    </item>
+    <group>
+      <name>Mini Squishable Cozy Plague Doctor and Nurse</name>
+      <note>I like this particular pair because they&apos;re holding sweets.</note>
+      <item>
+        <name>Mini Squishable Cozy Plague Doctor</name>
+        <thumbnail>mini_cozy_plague_doctor_e3a84823.jpg</thumbnail>
+        <url>https://www.squishable.com/products/mini-squishable-cozy-plague-doctor</url>
+      </item>
+      <item>
+        <name>Mini Squishable Cozy Plague Nurse</name>
+        <thumbnail>mini_cozy_plague_nurse.jpg</thumbnail>
+        <url>https://www.squishable.com/products/mini-squishable-cozy-plague-nurse</url>
+      </item>
+    </group>
   </section>
 
   <section>
     <name>Other Gift Ideas</name>
     <note>These are things I probably wouldn&apos;t bother spending my own money on but that I&apos;ll still love if I receive them as gifts.</note>
-    <item>
-      <name>Squishable Chocolate Chunk Cookie</name>
-      <thumbnail>comfortfood_chocolate_chunk_cookie.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/choco_chunk_cookie.html</url>
-    </item>
     <item>
       <name>Glass Balloon (Purple)</name>
       <note>I wouldn't mind the blue one either, but I&apos;m not interested in any of the other colors.</note>
@@ -67,6 +98,35 @@
         <url>https://www.uncommongoods.com/product/everlasting-stained-glass-succulents/579150000001</url>
       </item>
     </group>
+    <item>
+      <name>Marble Run DIY Complete Build Set</name>
+      <thumbnail>61114_1_640px.jpg</thumbnail>
+      <url>https://www.uncommongoods.com/product/marble-run-diy-complete-build-set</url>
+    </item>
+    <group>
+      <name>Storybook DIY Kits</name>
+      <note>I still need to actually assemble the ones I already have, but they look so <i>cool</i>...</note>
+      <item>
+        <name>Greenhouse</name>
+        <thumbnail>571380000004_2_640px.jpg</thumbnail>
+        <url>https://www.uncommongoods.com/product/storybook-diy-kit/571380000004</url>
+      </item>
+      <item>
+        <name>Bookshop</name>
+        <thumbnail>571380000005_2_640px.jpg</thumbnail>
+        <url>https://www.uncommongoods.com/product/storybook-diy-kit/571380000005</url>
+      </item>
+      <item>
+        <name>Romantic Venice</name>
+        <thumbnail>571380000006_1_640px.jpg</thumbnail>
+        <url>https://www.uncommongoods.com/product/storybook-diy-kit/571380000006</url>
+      </item>
+      <item>
+        <name>Floral Corner</name>
+        <thumbnail>571380000007_1_640px.jpg</thumbnail>
+        <url>https://www.uncommongoods.com/product/storybook-diy-kit/571380000007</url>
+      </item>
+    </group>
     <group>
       <name>Really expensive Swarovski crystal figurines</name>
       <note>I know these are all long shots, but I list them here for completeness.  Maybe if you guys win the lottery...</note>
@@ -88,9 +148,49 @@
       </item>
     </group>
     <item>
+      <name>Squishable Snacker Gamer Reaper</name>
+      <thumbnail>alteregos_reaper_gamer.jpg</thumbnail>
+      <url>https://www.squishable.com/products/alter-egos-series-10-gamer-reaper</url>
+    </item>
+    <item>
+      <name>Squishable Snacker Ghost King Reaper</name>
+      <thumbnail>alteregos_reaper_ghost_king.jpg</thumbnail>
+      <url>https://www.squishable.com/products/alter-egos-series-10-ghost-king-reaper</url>
+    </item>
+    <item>
+      <name>Mini Squishable Sakura Mothman</name>
+      <thumbnail>mini_sakura_baby_mothman.jpg</thumbnail>
+      <url>https://www.squishable.com/products/mini-squishable-sakura-mothman</url>
+    </item>
+    <item>
+      <name>Mini Squishable Festive Reaper</name>
+      <thumbnail>mini_festive_reaper.jpg</thumbnail>
+      <url>https://www.squishable.com/products/mini-squishable-festive-reaper</url>
+    </item>
+    <item>
       <name>Traditional Samosa Making Kit</name>
       <thumbnail>59394_1_640px.jpg</thumbnail>
       <url>https://www.uncommongoods.com/product/traditional-samosa-making-kit</url>
+    </item>
+    <item>
+      <name>Mini Squishable Goth Donut</name>
+      <thumbnail>comfortfood_mini_goth_donut.jpg</thumbnail>
+      <url>https://www.squishable.com/products/mini-comfort-food-goth-donut</url>
+    </item>
+    <item>
+      <name>Squishable Festive Marshmallow Stick</name>
+      <thumbnail>comfortfood_festive_marshmallow.jpg</thumbnail>
+      <url>https://www.squishable.com/products/comfort-food-festive-marshmallow-stick</url>
+    </item>
+    <item>
+      <name>Squishable Snacker Candy Cane</name>
+      <thumbnail>snackers_candy_cane.jpg</thumbnail>
+      <url>https://www.squishable.com/products/snacker-candy-cane</url>
+    </item>
+    <item>
+      <name>Squishable Chocolate Chunk Cookie</name>
+      <thumbnail>comfortfood_chocolate_chunk_cookie.jpg</thumbnail>
+      <url>https://www.squishable.com/squishables/choco_chunk_cookie.html</url>
     </item>
     <item>
       <name>Jellyfish Air Planter (Plum)</name>
