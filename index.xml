@@ -79,20 +79,6 @@
       <url>https://www.squishable.com/products/snacker-cinnabunny</url>
       <note>I already have the mini-sized one.</note>
     </item>
-    <group>
-      <name>Mini Squishable Cozy Plague Doctor and Nurse</name>
-      <note>I like this particular pair because they&apos;re holding sweets.</note>
-      <item>
-        <name>Mini Squishable Cozy Plague Doctor</name>
-        <thumbnail>mini_cozy_plague_doctor_e3a84823.jpg</thumbnail>
-        <url>https://www.squishable.com/products/mini-squishable-cozy-plague-doctor</url>
-      </item>
-      <item>
-        <name>Mini Squishable Cozy Plague Nurse</name>
-        <thumbnail>mini_cozy_plague_nurse.jpg</thumbnail>
-        <url>https://www.squishable.com/products/mini-squishable-cozy-plague-nurse</url>
-      </item>
-    </group>
   </section>
 
   <section>
@@ -113,6 +99,20 @@
       <thumbnail>21353_boxprod_v39.png</thumbnail>
       <url>https://www.lego.com/en-us/product/the-botanical-garden-21353</url>
     </item>
+    <group>
+      <name>Mini Squishable Cozy Plague Doctor and Nurse</name>
+      <note>I like this particular pair because they&apos;re holding sweets.</note>
+      <item>
+        <name>Mini Squishable Cozy Plague Doctor</name>
+        <thumbnail>mini_cozy_plague_doctor_e3a84823.jpg</thumbnail>
+        <url>https://www.squishable.com/products/mini-squishable-cozy-plague-doctor</url>
+      </item>
+      <item>
+        <name>Mini Squishable Cozy Plague Nurse</name>
+        <thumbnail>mini_cozy_plague_nurse.jpg</thumbnail>
+        <url>https://www.squishable.com/products/mini-squishable-cozy-plague-nurse</url>
+      </item>
+    </group>
     <item>
       <name>Glass Balloon (Purple)</name>
       <note>I wouldn't mind the blue one either, but I&apos;m not interested in any of the other colors.</note>
@@ -252,11 +252,6 @@
       <note>I&apos;m not interested in any of the other colors.</note>
       <thumbnail>491610000002_1_640px.jpg</thumbnail>
       <url>https://www.uncommongoods.com/product/jellyfish-air-planter/491610000002</url>
-    </item>
-    <item>
-      <name>Flipping the Bird Trophy</name>
-      <thumbnail>57845_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/flipping-the-bird-trophy</url>
     </item>
   </section>
 
