@@ -12,16 +12,6 @@
       <url>https://topatoco.com/collections/girl-genius?filter.v.price.gte=&amp;filter.v.price.lte=&amp;filter.p.product_type=Books&amp;sort_by=created-descending</url>
       <note>This volume is not yet available for purchase or pre-order, but the given link should have it at the top of the page when it is.</note>
     </item>
-    <item>
-      <name>Plum Blossom LEGO Set</name>
-      <thumbnail>10369_boxprod_v39_sha.jpg</thumbnail>
-      <url>https://www.lego.com/en-us/product/plum-blossom-10369</url>
-    </item>
-    <item>
-      <name>Magical Unicorn LEGO Set</name>
-      <thumbnail>31140_alt1.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/magical-unicorn-31140</url>
-    </item>
  </section>
 
   <section>
@@ -43,41 +33,14 @@
       <url>https://www.vat19.com/item/tiny-tv-super-small-working-television</url>
     </item>
     <item>
-      <name>Squishable Snacker Gingerbread Tree</name>
-      <thumbnail>alteregos_christmas_tree_set_2_g.jpg</thumbnail>
-      <url>https://www.squishable.com/products/alter-egos-series-12-gingerbread-tree</url>
-    </item>
-    <item>
-      <name>Mini Squishable Bunana</name>
-      <thumbnail>mini_bunana.jpg</thumbnail>
-      <url>https://www.squishable.com/products/mini-squishable-bunana</url>
-    </item>
-    <item>
       <name>Mini Orchid LEGO Set</name>
       <thumbnail>10343_boxprod_v39.png</thumbnail>
       <url>https://www.lego.com/en-us/product/mini-orchid-10343</url>
     </item>
     <item>
-      <name>Chrysanthemum LEGO Set</name>
-      <thumbnail>10368_boxprod_v39_sha.jpg</thumbnail>
-      <url>https://www.lego.com/en-us/product/chrysanthemum-10368</url>
-    </item>
-    <item>
       <name>Lucky Bamboo LEGO Set</name>
       <thumbnail>10344_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/lucky-bamboo-10344</url>
-    </item>
-    <item>
-      <name>Mini Squishable Candy Tree</name>
-      <thumbnail>mini_candy_tree.jpg</thumbnail>
-      <url>https://www.squishable.com/products/mini-squishable-candy-tree</url>
-      <note>I already have the snacker-sized one.</note>
-    </item>
-    <item>
-      <name>Squishable Snacker Cinnabunny</name>
-      <thumbnail>snackers_cinnabunny.jpg</thumbnail>
-      <url>https://www.squishable.com/products/snacker-cinnabunny</url>
-      <note>I already have the mini-sized one.</note>
     </item>
   </section>
 
@@ -99,20 +62,6 @@
       <thumbnail>21353_boxprod_v39.png</thumbnail>
       <url>https://www.lego.com/en-us/product/the-botanical-garden-21353</url>
     </item>
-    <group>
-      <name>Mini Squishable Cozy Plague Doctor and Nurse</name>
-      <note>I like this particular pair because they&apos;re holding sweets.</note>
-      <item>
-        <name>Mini Squishable Cozy Plague Doctor</name>
-        <thumbnail>mini_cozy_plague_doctor_e3a84823.jpg</thumbnail>
-        <url>https://www.squishable.com/products/mini-squishable-cozy-plague-doctor</url>
-      </item>
-      <item>
-        <name>Mini Squishable Cozy Plague Nurse</name>
-        <thumbnail>mini_cozy_plague_nurse.jpg</thumbnail>
-        <url>https://www.squishable.com/products/mini-squishable-cozy-plague-nurse</url>
-      </item>
-    </group>
     <item>
       <name>Glass Balloon (Purple)</name>
       <note>I wouldn't mind the blue one either, but I&apos;m not interested in any of the other colors.</note>
@@ -195,57 +144,16 @@
         <thumbnail>idyllia-butterfly-swarovski-5650.png</thumbnail>
         <url>https://www.swarovski.com/en-US/p-5650796/Idyllia-Butterfly/</url>
       </item>
-      <item>
-        <name>Blossoming Rose</name>
-        <note>The pink version, not the red version.</note>
-        <thumbnail>blossoming-rose-swarovski-568851.png</thumbnail>
-        <url>https://www.swarovski.com/en-US/p-5688517/Blossoming-Rose/</url>
-      </item>
     </group>
-    <item>
-      <name>Squishable Snacker Gamer Reaper</name>
-      <thumbnail>alteregos_reaper_gamer.jpg</thumbnail>
-      <url>https://www.squishable.com/products/alter-egos-series-10-gamer-reaper</url>
-    </item>
-    <item>
-      <name>Squishable Snacker Ghost King Reaper</name>
-      <thumbnail>alteregos_reaper_ghost_king.jpg</thumbnail>
-      <url>https://www.squishable.com/products/alter-egos-series-10-ghost-king-reaper</url>
-    </item>
-    <item>
-      <name>Mini Squishable Sakura Mothman</name>
-      <thumbnail>mini_sakura_baby_mothman.jpg</thumbnail>
-      <url>https://www.squishable.com/products/mini-squishable-sakura-mothman</url>
-    </item>
-    <item>
-      <name>Mini Squishable Festive Reaper</name>
-      <thumbnail>mini_festive_reaper.jpg</thumbnail>
-      <url>https://www.squishable.com/products/mini-squishable-festive-reaper</url>
-    </item>
     <item>
       <name>Traditional Samosa Making Kit</name>
       <thumbnail>59394_1_640px.jpg</thumbnail>
       <url>https://www.uncommongoods.com/product/traditional-samosa-making-kit</url>
     </item>
     <item>
-      <name>Mini Squishable Goth Donut</name>
-      <thumbnail>comfortfood_mini_goth_donut.jpg</thumbnail>
-      <url>https://www.squishable.com/products/mini-comfort-food-goth-donut</url>
-    </item>
-    <item>
-      <name>Squishable Festive Marshmallow Stick</name>
-      <thumbnail>comfortfood_festive_marshmallow.jpg</thumbnail>
-      <url>https://www.squishable.com/products/comfort-food-festive-marshmallow-stick</url>
-    </item>
-    <item>
       <name>Squishable Snacker Candy Cane</name>
       <thumbnail>snackers_candy_cane.jpg</thumbnail>
       <url>https://www.squishable.com/products/snacker-candy-cane</url>
-    </item>
-    <item>
-      <name>Squishable Chocolate Chunk Cookie</name>
-      <thumbnail>comfortfood_chocolate_chunk_cookie.jpg</thumbnail>
-      <url>https://www.squishable.com/squishables/choco_chunk_cookie.html</url>
     </item>
     <item>
       <name>Jellyfish Air Planter (Plum)</name>
