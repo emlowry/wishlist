@@ -12,16 +12,16 @@
       <url>https://topatoco.com/collections/girl-genius?filter.v.price.gte=&amp;filter.v.price.lte=&amp;filter.p.product_type=Books&amp;sort_by=created-descending</url>
       <note>This volume is not yet available for purchase or pre-order, but the given link should have it at the top of the page when it is.</note>
     </item>
-    <item>
-      <name>Donut Truck LEGO Set</name>
-      <thumbnail>60452_boxprod_v39_en-gb.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/donut-truck-60452</url>
-    </item>
  </section>
 
   <section>
     <name>Wants</name>
     <note>These are things I really want.  I don&apos;t <em>need</em> them, but I will happily spend my own money on them if I don&apos;t get them as gifts.</note>
+    <item>
+      <name>Donut Truck LEGO Set</name>
+      <thumbnail>60452_boxprod_v39_en-gb.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/donut-truck-60452</url>
+    </item>
     <item>
       <name>Bonk! Cheems figure</name>
       <thumbnail>bonkcheems_box_final-mt8v.png</thumbnail>
@@ -36,16 +36,6 @@
       <name>Tiny TV</name>
       <thumbnail>tiny-tv-2.jpg</thumbnail>
       <url>https://www.vat19.com/item/tiny-tv-super-small-working-television</url>
-    </item>
-    <item>
-      <name>Mini Orchid LEGO Set</name>
-      <thumbnail>10343_boxprod_v39.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/mini-orchid-10343</url>
-    </item>
-    <item>
-      <name>Lucky Bamboo LEGO Set</name>
-      <thumbnail>10344_boxprod_v39_en-gb.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/lucky-bamboo-10344</url>
     </item>
   </section>
 
@@ -73,25 +63,6 @@
       <thumbnail>13479_3_640px.jpg</thumbnail>
       <url>https://www.uncommongoods.com/product/glass-balloons/134790000004</url>
     </item>
-    <group>
-      <name>Everlasting Stained Glass Succulents</name>
-      <note>I have the <i>perfect</i> containers for these...</note>
-      <item>
-        <name>Graptoveria - Pointed Leaf Succulent</name>
-        <thumbnail>graptoveria.jpg</thumbnail>
-        <url>https://www.uncommongoods.com/product/everlasting-stained-glass-succulents/579150000002</url>
-      </item>
-      <item>
-        <name>Lotus - Pointed Leaf Succulent</name>
-        <thumbnail>lotus.jpg</thumbnail>
-        <url>https://www.uncommongoods.com/product/everlasting-stained-glass-succulents/579150000000</url>
-      </item>
-      <item>
-        <name>Echeveria - Round Leaf Succulent</name>
-        <thumbnail>echeveria.jpg</thumbnail>
-        <url>https://www.uncommongoods.com/product/everlasting-stained-glass-succulents/579150000001</url>
-      </item>
-    </group>
     <item>
       <name>Planet Earth and Moon in Orbit LEGO Set</name>
       <thumbnail>42179_boxprod_v39.jpg</thumbnail>
@@ -150,16 +121,6 @@
         <url>https://www.swarovski.com/en-US/p-5650796/Idyllia-Butterfly/</url>
       </item>
     </group>
-    <item>
-      <name>Traditional Samosa Making Kit</name>
-      <thumbnail>59394_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/traditional-samosa-making-kit</url>
-    </item>
-    <item>
-      <name>Squishable Snacker Candy Cane</name>
-      <thumbnail>snackers_candy_cane.jpg</thumbnail>
-      <url>https://www.squishable.com/products/snacker-candy-cane</url>
-    </item>
     <item>
       <name>Jellyfish Air Planter (Plum)</name>
       <note>I&apos;m not interested in any of the other colors.</note>
