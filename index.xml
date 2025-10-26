@@ -27,6 +27,12 @@
     <name>Wants</name>
     <note>These are things I really want.  I don&apos;t <em>need</em> them, but I will happily spend my own money on them if I don&apos;t get them as gifts.</note>
     <item>
+      <name>Divoom Times Frame (Pink)</name>
+      <note>I&apos;m not interested in the Black or Beige variants.</note>
+      <thumbnail>4_b5e9297b-9012-4557-b350-94acea.jpg</thumbnail>
+      <url>https://divoom.com/products/times-frame?variant=42323899089014</url>
+    </item>
+    <item>
       <name>Donut Truck LEGO Set</name>
       <thumbnail>60452_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/donut-truck-60452</url>
@@ -72,14 +78,15 @@
       <url>https://www.lego.com/en-us/product/mini-bonsai-trees-10373</url>
     </item>
     <item>
+      <name>Divoom Tiivoo-2 (Pink)</name>
+      <note>I&apos;m not interested in the Black, White, or Green variants.</note>
+      <thumbnail>12_20275ed1-5dc6-4474-b0bd-48cd1.jpg</thumbnail>
+      <url>https://divoom.com/products/divoom-tiivoo-2-photo-album-lyrics-speaker?variant=41440852050038</url>
+    </item>
+    <item>
       <name>Celadon Game Corner Puzzle</name>
       <thumbnail>P10645_73-10047-101_01.jpg</thumbnail>
       <url>https://www.pokemoncenter.com/product/73-10047-101/celadon-game-corner-puzzle-500-pieces</url>
-    </item>
-    <item>
-      <name>Mew Mythical Sights Layered Wall Art</name>
-      <thumbnail>P10871_71-10018-101_03.jpg</thumbnail>
-      <url>https://www.pokemoncenter.com/product/71-10018-101/mew-mythical-sights-layered-wall-art</url>
     </item>
   </section>
 
@@ -95,6 +102,11 @@
       <name>The Botanical Garden LEGO Set</name>
       <thumbnail>21353_boxprod_v39.png</thumbnail>
       <url>https://www.lego.com/en-us/product/the-botanical-garden-21353</url>
+    </item>
+    <item>
+      <name>Mew Mythical Sights Layered Wall Art</name>
+      <thumbnail>P10871_71-10018-101_03.jpg</thumbnail>
+      <url>https://www.pokemoncenter.com/product/71-10018-101/mew-mythical-sights-layered-wall-art</url>
     </item>
     <item>
       <name>Build Your Own 3D Pro Marble Run Puzzle Cube</name>
