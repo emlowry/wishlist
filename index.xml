@@ -33,11 +33,6 @@
       <url>https://divoom.com/products/times-frame?variant=42323899089014</url>
     </item>
     <item>
-      <name>Pikachu and Poké Ball LEGO Set</name>
-      <thumbnail>72152_boxprod_v39_en-us.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/pikachu-and-poke-ball-72152</url>
-    </item>
-    <item>
       <name>Bonk! Cheems figure</name>
       <thumbnail>bonkcheems_box_final-mt8v.png</thumbnail>
       <url>https://youtooz.com/products/bonk-cheems</url>
@@ -81,6 +76,11 @@
       <name>Bouquet of Pink Roses LEGO Set</name>
       <thumbnail>10374_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/bouquet-of-pink-roses-10374</url>
+    </item>
+    <item>
+      <name>Pikachu and Poké Ball LEGO Set</name>
+      <thumbnail>72152_boxprod_v39_en-us.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/pikachu-and-poke-ball-72152</url>
     </item>
     <item>
       <name>Flower Wall LEGO Set</name>
@@ -263,6 +263,11 @@
       <url>https://www.lego.com/en-us/product/fries-food-truck-60488</url>
     </item>
     <item>
+      <name>Burger Truck LEGO Set</name>
+      <thumbnail>60404.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/burger-truck-60404</url>
+    </item>
+    <item>
       <name>Spring Wreath LEGO Set</name>
       <thumbnail>40957_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/spring-wreath-40957</url>
@@ -307,6 +312,11 @@
       <url>https://www.lego.com/en-us/product/flowering-cactus-11509</url>
     </item>
     <item>
+      <name>Wildflower Bouquet LEGO Set</name>
+      <thumbnail>10313_alt1.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/wildflower-bouquet-10313</url>
+    </item>
+    <item>
       <name>Tiny Wildflower Bouquet LEGO Set</name>
       <thumbnail>6_expanded_pack_shot.jpg</thumbnail>
       <url>https://www.lego.com/en-us/product/tiny-wildflower-bouquet-5010076</url>
@@ -315,6 +325,16 @@
       <name>Pretty Pink Flower Bouquet LEGO Set</name>
       <thumbnail>10342_boxprod_v39.png</thumbnail>
       <url>https://www.lego.com/en-us/product/pretty-pink-flower-bouquet-10342</url>
+    </item>
+    <item>
+      <name>Petite Sunny Bouquet LEGO Set</name>
+      <thumbnail>10347_boxprod_v39_en-gb.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/petite-sunny-bouquet-10347</url>
+    </item>
+    <item>
+      <name>Flower Bouquet LEGO Set</name>
+      <thumbnail>10280_alt1.jpg</thumbnail>
+      <url>https://www.lego.com/en-us/product/flower-bouquet-10280</url>
     </item>
     <item>
       <name>Flower Arrangement LEGO Set</name>
