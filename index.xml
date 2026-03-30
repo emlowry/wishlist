@@ -6,6 +6,25 @@
   <section>
     <name>Must-Haves</name>
     <note>These are things that I either need or want strongly enough that they feel like needs.  Get these first, if it&apos;s practical.</note>
+    <group>
+      <name>Girl Genius paperbacks</name>
+      <note>I&apos;m not sure when these will actually be available for purchase, especially the last one.  When they do become available, they will almost certainly be available from Topatoco like the earlier volumes.</note>
+      <item>
+        <name>Girl Genius Book 22: The Chronometric Lantern Expedition</name>
+        <thumbnail>Chronometric_lantern_cover.png</thumbnail>
+        <url>https://topatoco.com/collections/girl-genius</url>
+      </item>
+      <item>
+        <name>Girl Genius Book 23: Escape from the Island of the Rat Queen</name>
+        <thumbnail>Island_rat_queen_cover.png</thumbnail>
+        <url>https://topatoco.com/collections/girl-genius</url>
+      </item>
+      <item>
+        <name>Franz Scortchmaw: The Quest for Gold and Sequels</name>
+        <thumbnail>455826.jpg</thumbnail>
+        <url>https://topatoco.com/collections/girl-genius</url>
+      </item>
+    </group>
     <item>
       <name>Eevee LEGO Set</name>
       <thumbnail>72151_boxprod_v39_en-us.png</thumbnail>
@@ -102,11 +121,6 @@
       <name>Mini Bonsai Trees LEGO Set</name>
       <thumbnail>10373_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/mini-bonsai-trees-10373</url>
-    </item>
-    <item>
-      <name>Love Letters LEGO Set</name>
-      <thumbnail>40867_boxprod_v39_en-gb.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/love-letters-40867</url>
     </item>
   </section>
 
@@ -346,6 +360,11 @@
       <note>I&apos;m not interested in any of the other colors.</note>
       <thumbnail>491610000002_1_640px.jpg</thumbnail>
       <url>https://www.uncommongoods.com/product/jellyfish-air-planter/491610000002</url>
+    </item>
+    <item>
+      <name>Love Letters LEGO Set</name>
+      <thumbnail>40867_boxprod_v39_en-gb.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/love-letters-40867</url>
     </item>
     <item>
       <name>Robert Indiana - LOVE sculpture LEGO Set</name>
