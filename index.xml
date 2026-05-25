@@ -6,29 +6,11 @@
   <section>
     <name>Must-Haves</name>
     <note>These are things that I either need or want strongly enough that they feel like needs.  Get these first, if it&apos;s practical.</note>
-    <group>
-      <name>Girl Genius paperbacks</name>
-      <note>I&apos;m not sure when these will actually be available for purchase, especially the last one.  When they do become available, they will almost certainly be available from Topatoco like the earlier volumes.</note>
-      <item>
-        <name>Girl Genius Book 22: The Chronometric Lantern Expedition</name>
-        <thumbnail>Chronometric_lantern_cover.png</thumbnail>
-        <url>https://topatoco.com/collections/girl-genius</url>
-      </item>
-      <item>
-        <name>Girl Genius Book 23: Escape from the Island of the Rat Queen</name>
-        <thumbnail>Island_rat_queen_cover.png</thumbnail>
-        <url>https://topatoco.com/collections/girl-genius</url>
-      </item>
-      <item>
-        <name>Franz Scortchmaw: The Quest for Gold and Sequels</name>
-        <thumbnail>455826.jpg</thumbnail>
-        <url>https://topatoco.com/collections/girl-genius</url>
-      </item>
-    </group>
     <item>
-      <name>Eevee LEGO Set</name>
-      <thumbnail>72151_boxprod_v39_en-us.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/eevee-72151</url>
+      <name>Franz Scortchmaw: The Quest for Gold and Sequels</name>
+      <thumbnail>455826.jpg</thumbnail>
+      <url>https://topatoco.com/collections/girl-genius</url>
+      <note>I&apos;m not sure when this will actually be available for purchase.  When it does become available, it will almost certainly be available from Topatoco like the regular Girl Genius volumes.</note>
     </item>
     <item>
       <name>Mineral Collection LEGO Set</name>
@@ -85,11 +67,6 @@
       <name>Tiny TV</name>
       <thumbnail>tiny-tv-2.jpg</thumbnail>
       <url>https://www.vat19.com/item/tiny-tv-super-small-working-television</url>
-    </item>
-    <item>
-      <name>French Café LEGO Set</name>
-      <thumbnail>10362_boxprod_v39.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/french-cafe-10362</url>
     </item>
     <item>
       <name>Bouquet of Pink Roses LEGO Set</name>
@@ -267,19 +244,9 @@
       <url>https://www.lego.com/en-us/product/willy-wonka-the-chocolate-factory-21360</url>
     </item>
     <item>
-      <name>Magnolia Branches LEGO Set</name>
-      <thumbnail>bltf1012114bd36e2ac-11510_boxprod_v29.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/magnolia-branches-11510</url>
-    </item>
-    <item>
       <name>Cherry Blossoms LEGO Set</name>
       <thumbnail>40725_Box1_v140.png</thumbnail>
       <url>https://www.lego.com/en-us/product/cherry-blossoms-40725</url>
-    </item>
-    <item>
-      <name>Lotus Flowers LEGO Set</name>
-      <thumbnail>40647_alt1.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/lotus-flowers-40647</url>
     </item>
     <item>
       <name>Fries Food Truck LEGO Set</name>
