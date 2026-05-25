@@ -22,7 +22,12 @@
       <thumbnail>31218_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/japanese-cherry-blossom-landscape-31218</url>
     </item>
- </section>
+    <item>
+      <name>Rocking Plants LEGO Set</name>
+      <thumbnail>11506_boxprod_v39_en-us.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/rocking-plants-11506</url>
+    </item>
+  </section>
 
   <section>
     <name>Wants</name>
@@ -100,14 +105,19 @@
       <url>https://squishable.com/products/squishable-sakura-mothman</url>
     </item>
     <item>
-      <name>Flower Wall LEGO Set</name>
-      <thumbnail>11503_boxprod_v39_en-gb.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/flower-wall-11503</url>
+      <name>Water Lilies LEGO Set</name>
+      <thumbnail>11511_boxprod_v39_en-us.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/water-lilies-11511</url>
     </item>
     <item>
       <name>Mini Bonsai Trees LEGO Set</name>
       <thumbnail>10373_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/mini-bonsai-trees-10373</url>
+    </item>
+    <item>
+      <name>Flower Wall LEGO Set</name>
+      <thumbnail>11503_boxprod_v39_en-gb.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/flower-wall-11503</url>
     </item>
   </section>
 
@@ -249,24 +259,9 @@
       <url>https://www.lego.com/en-us/product/cherry-blossoms-40725</url>
     </item>
     <item>
-      <name>Fries Food Truck LEGO Set</name>
-      <thumbnail>60488_boxprod_v39_en-gb.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/fries-food-truck-60488</url>
-    </item>
-    <item>
-      <name>Burger Truck LEGO Set</name>
-      <thumbnail>60404.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/burger-truck-60404</url>
-    </item>
-    <item>
-      <name>Spring Wreath LEGO Set</name>
-      <thumbnail>40957_boxprod_v39_en-gb.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/spring-wreath-40957</url>
-    </item>
-    <item>
-      <name>Mini Biomes LEGO Set</name>
-      <thumbnail>21589_boxprod_v39_en-gb.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/mini-biomes-21589</url>
+      <name>Woodland Mushrooms LEGO Set</name>
+      <thumbnail>11505_boxprod_v39_en-us.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/woodland-mushrooms-11505</url>
     </item>
     <group>
       <name>Really expensive Swarovski crystal figurines</name>
@@ -288,9 +283,29 @@
       </item>
     </group>
     <item>
+      <name>Fries Food Truck LEGO Set</name>
+      <thumbnail>60488_boxprod_v39_en-gb.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/fries-food-truck-60488</url>
+    </item>
+    <item>
+      <name>Burger Truck LEGO Set</name>
+      <thumbnail>60404.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/burger-truck-60404</url>
+    </item>
+    <item>
+      <name>Mini Biomes LEGO Set</name>
+      <thumbnail>21589_boxprod_v39_en-gb.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/mini-biomes-21589</url>
+    </item>
+    <item>
       <name>Peace Lily LEGO Set</name>
       <thumbnail>11504_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/peace-lily-11504</url>
+    </item>
+    <item>
+      <name>Spring Wreath LEGO Set</name>
+      <thumbnail>40957_boxprod_v39_en-gb.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/spring-wreath-40957</url>
     </item>
     <item>
       <name>Hibiscus LEGO Set</name>
