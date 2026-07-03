@@ -23,6 +23,11 @@
       <url>https://www.lego.com/en-us/product/smart-play-mewtwos-lab-break-72163</url>
     </item>
     <item>
+      <name>Squishable Alter Egos Series 20: Ice Cream Spider</name>
+      <thumbnail>alteregos_spider_ice_cream.jpg</thumbnail>
+      <url>https://squishable.com/products/alter-egos-series-20-ice-cream-spider</url>
+    </item>
+    <item>
       <name>Mineral Collection LEGO Set</name>
       <thumbnail>21362_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/mineral-collection-21362</url>
@@ -113,20 +118,25 @@
       <url>https://www.lego.com/en-us/product/water-lilies-11511</url>
     </item>
     <item>
-      <name>Mini Bonsai Trees LEGO Set</name>
-      <thumbnail>10373_boxprod_v39_en-gb.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/mini-bonsai-trees-10373</url>
-    </item>
-    <item>
-      <name>Flower Wall LEGO Set</name>
-      <thumbnail>11503_boxprod_v39_en-gb.png</thumbnail>
-      <url>https://www.lego.com/en-us/product/flower-wall-11503</url>
+      <name>Dark Flower Arrangement LEGO Set</name>
+      <thumbnail>11513_boxprod_v39.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/dark-flower-arrangement-11513</url>
     </item>
   </section>
 
   <section>
     <name>Other Gift Ideas</name>
     <note>These are things I probably wouldn&apos;t bother spending my own money on but that I&apos;ll still love if I receive them as gifts.</note>
+    <item>
+      <name>Ship Porthole Sand Art</name>
+      <thumbnail>63158_PortholeSandArt.gif</thumbnail>
+      <url>https://www.uncommongoods.com/product/ship-porthole-sand-art</url>
+    </item>
+    <item>
+      <name>Glass Sculpted Water Balloon, Purple</name>
+      <thumbnail>631120000000_1_1200px.jpg</thumbnail>
+      <url>https://www.uncommongoods.com/product/glass-sculpted-water-balloon/631120000000</url>
+    </item>
     <item>
       <name>Venusaur, Charizard and Blastoise LEGO Set</name>
       <thumbnail>72153_boxprod_v39.png</thumbnail>
@@ -151,6 +161,16 @@
       <name>Love Birds LEGO Set</name>
       <thumbnail>21365_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/love-birds-21365</url>
+    </item>
+    <item>
+      <name>Mini Bonsai Trees LEGO Set</name>
+      <thumbnail>10373_boxprod_v39_en-gb.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/mini-bonsai-trees-10373</url>
+    </item>
+    <item>
+      <name>Flower Wall LEGO Set</name>
+      <thumbnail>11503_boxprod_v39_en-gb.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/flower-wall-11503</url>
     </item>
     <item>
       <name>Build Your Own 3D Pro Marble Run Puzzle Cube</name>
@@ -197,9 +217,9 @@
       <url>https://www.uncommongoods.com/product/french-bread-making-kit</url>
     </item>
     <item>
-      <name>Swedish Rosette Waffle Kit</name>
-      <thumbnail>60891_1_640px.jpg</thumbnail>
-      <url>https://www.uncommongoods.com/product/swedish-rosette-waffle-kit</url>
+      <name>Joyful Hummingbird Stained Glass Sculpture</name>
+      <thumbnail>62580_1_1200px.jpg</thumbnail>
+      <url>https://www.uncommongoods.com/product/joyful-hummingbird-stained-glass-sculpture</url>
     </item>
     <item>
       <name>Everlasting Stained Glass Orchid, Rose</name>
@@ -299,6 +319,11 @@
       <name>Mini Biomes LEGO Set</name>
       <thumbnail>21589_boxprod_v39_en-gb.png</thumbnail>
       <url>https://www.lego.com/en-us/product/mini-biomes-21589</url>
+    </item>
+    <item>
+      <name>Hanging Golden Pothos LEGO Set</name>
+      <thumbnail>11512_boxprod_v39_en-us.png</thumbnail>
+      <url>https://www.lego.com/en-us/product/hanging-golden-pothos-11512</url>
     </item>
     <item>
       <name>Peace Lily LEGO Set</name>
