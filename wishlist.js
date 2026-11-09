@@ -80,7 +80,10 @@ function transformError(error)
         [
             {
                 "name": "Unable to load data",
-                "notes": [ error ]
+                "notes":
+                [
+                    error
+                ]
             }
         ]
     });
