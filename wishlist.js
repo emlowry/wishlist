@@ -30,30 +30,23 @@ function initialize()
     const titleText = "Elizabeth's " + year + " " + (isBDayList ? "Birthday" : "Christmas") + " Wishlist";
     document.querySelector(".wishlist-title").innerHTML = titleText;
     
-    if (typeof wishlistData !== "undefined")
+    try
     {
-        console.log(wishlistData);
-        transformData(wishlistData);
+        fetch("./wishlist.json")
+            .then(response => {
+                console.log(response);
+                if (!response.ok)
+                {
+                    throw new Error("HTTP error " + response.status);
+                }
+                return response.json();
+            })
+            .then(transformData)
+            .catch(transformError);
     }
-    else
+    catch(error)
     {
-        try
-        {
-            fetch("./wishlist.json")
-                .then(response => {
-                    if (!response.ok)
-                    {
-                        throw new Error("HTTP error " + response.status);
-                    }
-                    return response.json();
-                })
-                .then(transformData)
-                .catch(transformError);
-        }
-        catch(error)
-        {
-            transformError(error);
-        }
+        transformError(error);
     }
 }
 
