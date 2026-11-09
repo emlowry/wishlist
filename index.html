@@ -1,0 +1,59 @@
+<html>
+  <head>
+    <title class="wishlist-title">Elizabeth's Wishlist</title>
+    <link rel="stylesheet" type="text/css" href="wishlist_style.css" />
+    <script src="wishlist.js"></script>
+  </head>
+  <body onload="javascript:initialize();">
+    <div class="page">
+      <p class="name wishlist-title">Elizabeth's Wishlist</p>
+      <p>Viewable only in CSS3-compatible browsers with Javascript enabled.</p>
+      <ol class="sections" style="display: none;"></ol>
+      <h1 class="loader page-loader"><span>L</span><span>O</span><span>A</span><span>D</span><span>I</span><span>N</span><span>G</span></h1>
+    </div>
+    <template id="section-template">
+      <li>
+        <p class="name"></p>
+        <ol class="items" style="display: none;"></ol>
+        <h2 class="loader section-loader"><span>L</span><span>O</span><span>A</span><span>D</span><span>I</span><span>N</span><span>G</span></h2>
+      </li>
+    </template>
+    <template id="item-template">
+      <li>
+        <a>
+          <div class="imagewrapper" style="display: none;">
+            <img/>
+          </div>
+          <div class="content" style="display: none;">
+            <p class="name"></p>
+          </div>
+          <h3 class="loader item-loader"><span>L</span><span>O</span><span>A</span><span>D</span><span>I</span><span>N</span><span>G</span></h3>
+          <div class="clear"> </div>
+        </a>
+      </li>
+    </template>
+    <template id="group-template">
+      <li>
+        <span>
+          <div class="content" style="display: none;">
+            <p class="name"></p>
+          </div>
+          <ul class="subitems"></ul>
+          <h3 class="loader item-loader"><span>L</span><span>O</span><span>A</span><span>D</span><span>I</span><span>N</span><span>G</span></h3>
+          <div class="clear"> </div>
+        </span>
+      </li>
+    </template>
+    <template id="subitem-template">
+      <li>
+        <a>
+          <div class="imagewrapper" style="display: none;">
+            <img>
+          </div>
+          <p class="name"></p>
+          <h4 class="loader subitem-loader"><span>L</span><span>O</span><span>A</span><span>D</span><span>I</span><span>N</span><span>G</span></h4>
+        </a>
+      </li>
+    </template>
+  </body>
+</html>
