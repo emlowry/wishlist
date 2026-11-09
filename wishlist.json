@@ -5,7 +5,7 @@
             "name": "Must-Haves",
             "notes":
             [
-                "These are things that I either need or want strongly enough that they feel like needs.  Get these first, if it's practical.",
+                "These are things that I either need or want strongly enough that they feel like needs.  Get these first, if it's practical."
             ],
             "items":
             [
@@ -18,7 +18,7 @@
                     "name": "Franz Scortchmaw: The Quest for Gold and Sequels",
                     "notes":
                     [
-                        "I'm not sure when this will actually be available for purchase.  When it does become available, it will almost certainly be available from Topatoco like the regular Girl Genius volumes.",
+                        "I'm not sure when this will actually be available for purchase.  When it does become available, it will almost certainly be available from Topatoco like the regular Girl Genius volumes."
                     ],
                     "thumbnail": "455826.jpg",
                     "url": "https://topatoco.com/collections/girl-genius"
@@ -32,14 +32,14 @@
                     "name": "Mineral Collection LEGO Set",
                     "thumbnail": "21362_boxprod_v39_en-gb.png",
                     "url": "https://www.lego.com/en-us/product/mineral-collection-21362"
-                },
+                }
             ]
         },
         {
             "name": "Wants",
             "notes":
             [
-                "These are things I really want.  I don't <em>need</em> them, but I will happily spend my own money on them if I don't get them as gifts.",
+                "These are things I really want.  I don't <em>need</em> them, but I will happily spend my own money on them if I don't get them as gifts."
             ],
             "items":
             [
@@ -112,14 +112,14 @@
                     "name": "Dark Flower Arrangement LEGO Set",
                     "thumbnail": "11513_boxprod_v39.png",
                     "url": "https://www.lego.com/en-us/product/dark-flower-arrangement-11513"
-                },
+                }
             ]
         },
         {
             "name": "Other Gift Ideas",
             "notes":
             [
-                "These are things I probably wouldn't bother spending my own money on but that I'll still love if I receive them as gifts.",
+                "These are things I probably wouldn't bother spending my own money on but that I'll still love if I receive them as gifts."
             ],
             "items":
             [
@@ -182,7 +182,7 @@
                     "name": "Stonks and Stinks figures",
                     "notes":
                     [
-                        "These two are best bought as a pair.",
+                        "These two are best bought as a pair."
                     ],
                     "items":
                     [
@@ -195,7 +195,7 @@
                             "name": "Stinks figure",
                             "thumbnail": "stinks_box_final_1200-skjs.jpg",
                             "url": "https://youtooz.com/products/stinks"
-                        },
+                        }
                     ]
                 },
                 {
@@ -217,7 +217,7 @@
                     "name": "Everlasting Stained Glass Orchid, Rose",
                     "notes":
                     [
-                        "I'm not interested in the White or Peach versions.",
+                        "I'm not interested in the White or Peach versions."
                     ],
                     "thumbnail": "617890000002_1_640px.jpg",
                     "url": "https://www.uncommongoods.com/product/everlasting-stained-glass-orchid/617890000002"
@@ -241,7 +241,7 @@
                     "name": "Storybook DIY Kits",
                     "notes":
                     [
-                        "I still need to actually assemble the ones I already have, but they look so <em>cool</em>...",
+                        "I still need to actually assemble the ones I already have, but they look so <em>cool</em>..."
                     ],
                     "items":
                     [
@@ -264,7 +264,7 @@
                             "name": "Floral Corner",
                             "thumbnail": "571380000007_1_640px.jpg",
                             "url": "https://www.uncommongoods.com/product/storybook-diy-kit/571380000007"
-                        },
+                        }
                     ]
                 },
                 {
@@ -291,7 +291,7 @@
                     "name": "Really expensive Swarovski crystal figurines",
                     "notes":
                     [
-                        "I know these are all long shots, but I list them here for completeness.  Maybe if you guys win the lottery...",
+                        "I know these are all long shots, but I list them here for completeness.  Maybe if you guys win the lottery..."
                     ],
                     "items":
                     [
@@ -309,7 +309,7 @@
                             "name": "Florere Rose",
                             "thumbnail": "florere-rose-swarovski-5666973.png",
                             "url": "https://www.swarovski.com/en-US/p-5666973/Florere-Rose/"
-                        },
+                        }
                     ]
                 },
                 {
@@ -386,7 +386,7 @@
                     "name": "Jellyfish Air Planter (Plum)",
                     "notes":
                     [
-                        "I&apos;m not interested in any of the other colors.",
+                        "I&apos;m not interested in any of the other colors."
                     ],
                     "thumbnail": "491610000002_1_640px.jpg",
                     "url": "https://www.uncommongoods.com/product/jellyfish-air-planter/491610000002"
@@ -405,8 +405,8 @@
                     "name": "Keith Haring - Dancing Figures LEGO Set",
                     "thumbnail": "31216_boxprod_v39_en-gb.png",
                     "url": "https://www.lego.com/en-us/product/keith-haring-dancing-figures-31216"
-                },
+                }
             ]
-        },
+        }
     ]
 }
