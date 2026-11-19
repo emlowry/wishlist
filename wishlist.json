@@ -32,6 +32,11 @@
                     "name": "Mineral Collection LEGO Set",
                     "thumbnail": "21362_boxprod_v39_en-gb.png",
                     "url": "https://www.lego.com/en-us/product/mineral-collection-21362"
+                },
+                {
+                    "name": "Mini Squishable Ginger Cookie Plague Doctor",
+                    "thumbnail": "mini_ginger_cookie_plague_doctor.jpg",
+                    "url": "https://squishable.com/products/mini-squishable-ginger-cookie-plague-doctor"
                 }
             ]
         },
@@ -84,6 +89,11 @@
                     "url": "https://www.lego.com/en-us/product/bouquet-of-pink-roses-10374"
                 },
                 {
+                    "name": "Mini Comfort Food Tiramisu",
+                    "thumbnail": "Mini_Tiramisu.jpg",
+                    "url": "https://squishable.com/products/mini-comfort-food-tiramisu"
+                },
+                {
                     "name": "Pikachu and Poké Ball LEGO Set",
                     "thumbnail": "72152_boxprod_v39_en-us.png",
                     "url": "https://www.lego.com/en-us/product/pikachu-and-poke-ball-72152"
@@ -112,6 +122,11 @@
                     "name": "Dark Flower Arrangement LEGO Set",
                     "thumbnail": "11513_boxprod_v39.png",
                     "url": "https://www.lego.com/en-us/product/dark-flower-arrangement-11513"
+                },
+                {
+                    "name": "Comfort Food Sugar Cookie",
+                    "thumbnail": "comfortfood_sugar_cookie_15.jpg",
+                    "url": "https://squishable.com/products/comfort-food-sugar-cookie"
                 }
             ]
         },
