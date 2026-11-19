@@ -28,7 +28,7 @@ function initialize()
     headElement.insertBefore(iconnode, headElement.firstChild);
     
     const titleText = "Elizabeth's " + year + " " + (isBDayList ? "Birthday" : "Christmas") + " Wishlist";
-    document.querySelector(".wishlist-title").innerHTML = titleText;
+    document.querySelectorAll(".wishlist-title").forEach((title) => { title.innerHTML = titleText; });
     
     try
     {
